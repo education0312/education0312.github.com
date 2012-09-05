@@ -9,25 +9,25 @@ tagline:
   <div class="container">
 <div class="hero-unit">
         <h1>Hello, world!</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <p>education 0312 ,is being build.</p>
         <p><a class="btn btn-primary btn-large">Learn more »</a></p>
 </div>
 <!-- Example row of columns -->
       <div class="row">
         <div class="span4">
-          <h2>Heading1</h2>
-           <p>Donec . </p>
+          <h2>教育</h2>
+           <p>教育，是点燃，而不是灌输 </p>
          
         </div>
         <div class="span4">
-          <h2>Heading2</h2>
+          <h2>学习是种过程</h2>
            <p>Donec . </p>
           
         </div>
 
         <div class="span4">
-          <h2>Heading</h2>
-          <p>Donec .</p>
+          <h2>学习技巧</h2>
+          <p>思维导图 记忆  快速阅读</p>
          
         </div>
       </div>
