@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : edu0312
+title : "               EDU0312"
 tagline: education 0312
 author :
   name : ChenGang
@@ -81,16 +81,8 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
+      short_name : edu0312
+ 
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
